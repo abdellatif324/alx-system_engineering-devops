@@ -1,2 +1,2 @@
 #!/bin/bashi
-mv src/ *[[upper]]* /tmp/u
+mv src/ *[[:upper:]]* /tmp/u
