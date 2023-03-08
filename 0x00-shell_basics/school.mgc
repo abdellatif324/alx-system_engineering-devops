@@ -1,0 +1,2 @@
+#!/bin/bash
+fle -C -m <school.mgc> file-m <School>
