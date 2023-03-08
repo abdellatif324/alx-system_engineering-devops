@@ -1,2 +1,2 @@
-#!/bin/bashi
-mv src/ [[:upper:]]* /tmp/u
+#!/bin/bash
+mv src/*[A-Z]* /tmp/u
