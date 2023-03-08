@@ -1,2 +1,2 @@
-0 string SCHOOL School data
-!:mime School.mgc
+#!/bin/bash
+mkdir -p welcome/to/school
